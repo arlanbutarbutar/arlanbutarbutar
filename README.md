@@ -17,3 +17,5 @@ I not only have skills in the programming world but I also learned how to be a v
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arlanbutarbutar&show_icons=true&theme=dark&repo=lucita_ddos)](https://github.com/arlanbutarbutar/lucita_ddos)<br><br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arlanbutarbutar&show_icons=true&theme=dark&repo=DVWA)](https://github.com/arlanbutarbutar/DVWA)<br><br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arlanbutarbutar&show_icons=true&theme=dark&repo=wargabantuwarga.com)](https://github.com/arlanbutarbutar/wargabantuwarga.com)<br><br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arlanbutarbutar&layout=compact&theme=tokyonight)](https://github.com/arlanbutarbutar)
