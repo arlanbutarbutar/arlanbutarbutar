@@ -11,6 +11,6 @@ I not only have skills in the programming world but I also learned how to be a v
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arlanbutarbutar&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-🌩️ My top repository
-
+🌩️ <i><strong>My top repository</strong></i><br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arlanbutarbutar&repo=gui_free)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arlanbutarbutar&repo=lucita_ddos)](https://github.com/anuraghazra/github-readme-stats)
