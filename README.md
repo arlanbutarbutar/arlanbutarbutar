@@ -9,10 +9,24 @@ I started learning coding since I was in junior high school, when it happened th
 <h3><i><strong>🌠 Another life</strong></i></h3>
 I not only have skills in the programming world but I also learned how to be a video editor and photo editor.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arlanbutarbutar&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/arlanbutarbutar)
+<h3><i><strong>🎮 Skills and experience</strong></i></h3>
+* PHP Native <br>
+* HTML, CSS, JS <br>
+* Dart, Flutter <br>
+* Laravel 8 <br>
+* CodeIgniter 3 <br>
+
+<h3><i><strong>🏆 GitHub stats & Most used languages</strong></i></h3>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arlanbutarbutar&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/arlanbutarbutar) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arlanbutarbutar&layout=compact&theme=tokyonight)](https://github.com/arlanbutarbutar)
 
 <h3><i><strong>🌩️ My top repository</strong></i></h3>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arlanbutarbutar&show_icons=true&theme=dark&repo=gui_free)](https://github.com/arlanbutarbutar/gui_free)<br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arlanbutarbutar&show_icons=true&theme=dark&repo=lucita_ddos)](https://github.com/arlanbutarbutar/lucita_ddos)<br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arlanbutarbutar&show_icons=true&theme=dark&repo=DVWA)](https://github.com/arlanbutarbutar/DVWA)<br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arlanbutarbutar&show_icons=true&theme=dark&repo=wargabantuwarga.com)](https://github.com/arlanbutarbutar/wargabantuwarga.com)<br>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arlanbutarbutar&show_icons=true&theme=dark&repo=gui_free)](https://github.com/arlanbutarbutar/gui_free)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arlanbutarbutar&show_icons=true&theme=dark&repo=lucita_ddos)](https://github.com/arlanbutarbutar/lucita_ddos)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arlanbutarbutar&show_icons=true&theme=dark&repo=DVWA)](https://github.com/arlanbutarbutar/DVWA)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arlanbutarbutar&show_icons=true&theme=dark&repo=wargabantuwarga.com)](https://github.com/arlanbutarbutar/wargabantuwarga.com)
