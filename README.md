@@ -13,7 +13,7 @@ I not only have skills in the programming world but I also learned how to be a v
 
 🌩️ <i><strong>My top repository</strong></i><br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arlanbutarbutar&show_icons=true&theme=radical&repo=gui_free)](https://github.com/arlanbutarbutar/gui_free)<br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arlanbutarbutar&show_icons=true&theme=tokyonight&repo=lucita_ddos)](https://github.com/arlanbutarbutar/lucita_ddos)<br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arlanbutarbutar&show_icons=true&theme=tokyonight&repo=DVWA)](https://github.com/arlanbutarbutar/DVWA)<br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arlanbutarbutar&show_icons=true&theme=tokyonight&repo=wargabantuwarga.com)](https://github.com/arlanbutarbutar/wargabantuwarga.com)<br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arlanbutarbutar&show_icons=true&theme=dark&repo=gui_free)](https://github.com/arlanbutarbutar/gui_free)<br><br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arlanbutarbutar&show_icons=true&theme=dark&repo=lucita_ddos)](https://github.com/arlanbutarbutar/lucita_ddos)<br><br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arlanbutarbutar&show_icons=true&theme=dark&repo=DVWA)](https://github.com/arlanbutarbutar/DVWA)<br><br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arlanbutarbutar&show_icons=true&theme=dark&repo=wargabantuwarga.com)](https://github.com/arlanbutarbutar/wargabantuwarga.com)<br><br>
