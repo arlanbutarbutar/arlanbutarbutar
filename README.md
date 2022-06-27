@@ -1,6 +1,6 @@
 # Hello world, I'm Arlan Butar Butar👋
 
-🔥 <i><strong>I am a Software Engineer</strong></i><br> 
+<h3><i><strong>🔥 I am a Software Engineer</strong></i></h3>
 More specifically as a Back End Web Developer. I also have my own startup called Netmedia Framecode which has started a business since 2018. I am currently a student at Widya Mandira Catholic University. I have participated in various off-campus activities, such as Re-Cloud from <a href="https://codepolitan.com/">Codepolitan</a> and <a href="https://id.alibabacloud.com/">Alibaba Cloud Indonesia</a>.
 
 <h3><i><strong>⚡ My Job</strong></i></h3>
