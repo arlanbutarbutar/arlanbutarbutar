@@ -9,7 +9,6 @@ I started learning coding since I was in junior high school, when it happened th
 <h3><i><strong>🌠 Another life</strong></i></h3>
 I not only have skills in the programming world but I also learned how to be a video editor and photo editor.
 
-<h3><i><strong>⚡ Github stats & Most Used Languages</strong></i></h3>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arlanbutarbutar&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/arlanbutarbutar)
 
 <h3><i><strong>🌩️ My top repository</strong></i></h3>
