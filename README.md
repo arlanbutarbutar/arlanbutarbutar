@@ -1,4 +1,4 @@
-# Hello world, I'm Arlan Butar Butar👋
+# Hi, I'm arcode👋
 
 <h3><i><strong>🔥 I am a Software Engineer</strong></i></h3>
 More specifically as a Back End Web Developer. I also have my own startup called <a href="https://www.netmedia-framecode.com/" target="_blank">Netmedia Framecode</a> which has started a business since 2018. I am currently a student at Widya Mandira Catholic University. I have participated in various off-campus activities, such as Re-Cloud from <a href="https://codepolitan.com/" target="_blank">Codepolitan</a> and <a href="https://id.alibabacloud.com/" target="_blank">Alibaba Cloud Indonesia</a>.
@@ -39,14 +39,14 @@ I not only have skills in the programming world but I also learned how to be a v
   <tr>
   <td width="50%">
 
-&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/arlanbutarbutar)
+&nbsp; <br> [![Spotify](https://arlanbutarbutar.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/ptkgaep2xbue6hb51q4dvfl4i)
 
   </td>
   <td width="50%">
 
 &nbsp;<p align="center">This repository is [unlicense](https://choosealicense.com/licenses/unlicense/)[d], feel free to fork!<br><br>
-[![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/andrew-novac)
-[![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mail.novac.dev/)
+[![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/sahala-zakaria-recardo-butar-butar-ba253220a)
+[![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=DPRbkNwbXdpSqRRGSdnjbQCQcGkXHjhPBdKsWgkplDDDThjxjTfqClGHjLWMxWxLcsmpwqVvBqRlsHhGPqqPfMzGPfZCpskSTfqQBVlPrzVcHRg)
 [![Visits](https://komarev.com/ghpvc/?username=novatorem&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/arlanbutarbutar)
 
   </p>
