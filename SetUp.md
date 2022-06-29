@@ -14,3 +14,6 @@ encode {SPOTIFY_CLIENT_ID}:{SPOTIFY_CLIENT_SECRET}
 
 curl -X POST -H "Content-Type: application/x-www-form-urlencoded" -H "Authorization: Basic {BASE64}" -d "grant_type=authorization_code&redirect_uri=http://localhost/callback/&code={CODE}" https://accounts.spotify.com/api/token 
 => curl -X POST -H "Content-Type: application/x-www-form-urlencoded" -H "Authorization: Basic OGE2N2MwYzc5ZTdiNDJmZjlmNWYwY2QyNGVmZmY3NDA6NTA4Y2EwZTA1OWMyNGM5NGE4NzUxYzRkYzEzNGZhMTc=" -d "grant_type=authorization_code&redirect_uri=http://localhost/callback/&code=AQDL48uTjtYqMTIYCtENNKmb-zz4Mlw_WrWoSlvXHMuBeXqC61AvPKB1fHFLUiZAfhrXhb4ctrLkMA5XFtv3NiLxQCyPws4pNat-02bI4a8U5eNrP3YhFd46BnbvlzN9RR9su6iv94lbSZkwz_ONjM3xAvjRIEPweeaLTY8rAQvbMcX_tKqX31uLjuw3NwwmFQBjOEH8vQS2-CFxgbndOJPmFxY_WuH74QvbfHTieeEL8ODgE4c" https://accounts.spotify.com/api/token 
+
+Refresh Token
+=> AQCTq1Orh5TLYvL7nnd0IjhmbT2_A9KqEJey4sIGFkOqQsg59FXJATrPV4MBP8bGYH2wMXXWjURW0rfYzeAXW1POqDIkym4JFT_5zsspzF8r8vPyqo4PXsbyozCMKBF5Fr4
