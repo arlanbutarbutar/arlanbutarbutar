@@ -39,7 +39,7 @@ I not only have skills in the programming world but I also learned how to be a v
   <tr>
   <td width="50%">
 
-&nbsp; <br> [![Spotify](https://novitoram.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/ptkgaep2xbue6hb51q4dvfl4i)
+&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/ptkgaep2xbue6hb51q4dvfl4i)
 
   </td>
   <td width="50%">
