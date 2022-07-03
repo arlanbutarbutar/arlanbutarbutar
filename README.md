@@ -23,7 +23,7 @@ I not only have skills in the programming world but I also learned how to be a v
 
 <h3><i><strong>🕓 Repository in Progress</strong></i></h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arlanbutarbutar&show_icons=true&theme=dark&repo=SD-Inpres-Bello)](https://github.com/arlanbutarbutar/SD-Inpres-Bello)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arlanbutarbutar&show_icons=true&theme=dark&repo=ugdhp)](https://github.com/arlanbutarbutar/ugdhp)
 
 <h3><i><strong>🌩️ My top repository</strong></i></h3>
 
