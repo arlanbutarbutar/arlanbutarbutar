@@ -21,15 +21,9 @@ I not only have skills in the programming world but I also learned how to be a v
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arlanbutarbutar&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/arlanbutarbutar) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arlanbutarbutar&layout=compact&theme=tokyonight)](https://github.com/arlanbutarbutar)
 
-<h3><i><strong>🕓 Repository in Progress</strong></i></h3>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arlanbutarbutar&show_icons=true&theme=dark&repo=siperta)](https://github.com/arlanbutarbutar/siperta)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arlanbutarbutar&show_icons=true&theme=dark&repo=webgis-evi)](https://github.com/arlanbutarbutar/webgis-evi)
-
 <h3><i><strong>🌩️ My top repository</strong></i></h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arlanbutarbutar&show_icons=true&theme=dark&repo=gui_free)](https://github.com/arlanbutarbutar/gui_free)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arlanbutarbutar&show_icons=true&theme=dark&repo=gui_profesional)](https://github.com/arlanbutarbutar/gui_profesional)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arlanbutarbutar&show_icons=true&theme=dark&repo=lucita_ddos)](https://github.com/arlanbutarbutar/lucita_ddos)
 
